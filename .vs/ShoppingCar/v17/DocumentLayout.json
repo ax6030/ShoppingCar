@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\data\\shoppingcarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:data\\shoppingcarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\models\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:models\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\views\\shared\\_productscardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:views\\shared\\_productscardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\netcore\\coremvc\\shoppingcar\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BB2C731-3C97-4F99-843D-B8CFB53D0F9D}|ShoppingCar.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T09:41:29.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCarContext.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Data\\ShoppingCarContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShoppingCarContext.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Data\\ShoppingCarContext.cs",
+              "RelativeToolTip": "Data\\ShoppingCarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:12:31.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T10:14:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T10:19:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:00:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T10:02:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailViewModel.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\DetailViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetailViewModel.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Models\\DetailViewModel.cs",
+              "RelativeToolTip": "Models\\DetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:37:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T11:32:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-17T11:06:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ProductsCardPartial.cshtml",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Shared\\_ProductsCardPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ProductsCardPartial.cshtml",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Shared\\_ProductsCardPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ProductsCardPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T08:12:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T11:51:10.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

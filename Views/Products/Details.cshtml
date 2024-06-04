@@ -1,0 +1,54 @@
+﻿@model ShoppingCar.Models.DetailViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Image)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Html.DisplayFor(model => model.imgsrc)" />    //圖片
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.products.Name)            //名稱
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.products.Description)      //簡介
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.products.Price)            //價格
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Stock)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.products.Stock)            //庫存
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.products.Content)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.Raw(Model.products.Content)                          //內容
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.products.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,27 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Products>
+<div class="row">
+    @foreach(var item in Model)
+    {
+        <div class="col-md-4 col-xl-3 col-lg-4 col-md-6 col-sm-12">
+            <div class="card">
+                <div class="headshot">
+                    <img class="card-img-top" src="~/images/@item.Image"
+                         alt="@item.Image" />
+                </div>
+                <div class="crad-body">
+                    <h5 class="card-tilte">@item.Name</h5>
+                    <p class="card-text">@item.Category</p>
+                    <p class="card-text">@item.Description</p>
+                    <a herf="#" class="btn btn-primary" tatget="_blank">奇摩介紹</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+

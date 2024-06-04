@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShoppingCar.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCar.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\README.md",
+      "PackagePath": "staticwebassets\\lib\\README.md"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\lib\\build\\ckeditor.d.ts"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\build\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\build\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\af.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\az.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\bn.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\en.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\en.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\hy.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\kk.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\build\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\build\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\net45\\System.Web.Mvc.dll",
+      "PackagePath": "staticwebassets\\lib\\net45\\System.Web.Mvc.dll"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\net45\\System.Web.Mvc.xml",
+      "PackagePath": "staticwebassets\\lib\\net45\\System.Web.Mvc.xml"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\net45\\zh-Hant\\System.Web.Mvc.resources.dll",
+      "PackagePath": "staticwebassets\\lib\\net45\\zh-Hant\\System.Web.Mvc.resources.dll"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\net45\\zh-Hant\\System.Web.Mvc.xml",
+      "PackagePath": "staticwebassets\\lib\\net45\\zh-Hant\\System.Web.Mvc.xml"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\package.json",
+      "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\sample\\configuration-dialog\\configuration-dialog.css",
+      "PackagePath": "staticwebassets\\lib\\sample\\configuration-dialog\\configuration-dialog.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\sample\\configuration-dialog\\configuration-dialog.js",
+      "PackagePath": "staticwebassets\\lib\\sample\\configuration-dialog\\configuration-dialog.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\sample\\index.html",
+      "PackagePath": "staticwebassets\\lib\\sample\\index.html"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\sample\\script.js",
+      "PackagePath": "staticwebassets\\lib\\sample\\script.js"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\sample\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\sample\\styles.css"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\src\\ckeditor.ts",
+      "PackagePath": "staticwebassets\\lib\\src\\ckeditor.ts"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\tsconfig.json",
+      "PackagePath": "staticwebassets\\lib\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\NETcore\\coreMVC\\ShoppingCar\\wwwroot\\lib\\webpack.config.js",
+      "PackagePath": "staticwebassets\\lib\\webpack.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShoppingCar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShoppingCar.props",
+      "PackagePath": "build\\ShoppingCar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCar.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCar.props",
+      "PackagePath": "buildTransitive\\ShoppingCar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
